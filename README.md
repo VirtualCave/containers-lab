@@ -1,4 +1,4 @@
-# containers-demo
+# Docker Lab
 
 [WORK IN PROGRESS]
 
