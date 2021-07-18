@@ -23,6 +23,7 @@ In each technolody directory there will be a different sections for the feature 
   * Build
 * Kubernetes
   * Local Installation
+  * Namespaces
   * Pods
   * Deployments
   * Services

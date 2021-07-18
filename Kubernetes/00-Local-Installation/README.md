@@ -159,5 +159,5 @@ There are all the different elements that set our cluster like the Api Server, C
 
 ## Section complete....
 
-Now we have our cluster ready, we can continue with the lab by provisioning some [_pods_](../01-Pods/README.md).
+Now we have our cluster ready, we can continue with the lab by creating some [_namespaces_](../01-Namespaces/README.md).
 
