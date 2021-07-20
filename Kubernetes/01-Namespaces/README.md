@@ -54,3 +54,4 @@ kube-system          Active   129m
 local-path-storage   Active   128m
 ```
 
+Follow the link to go to [_Pods_ lab.](../02-Pods/README.md)
