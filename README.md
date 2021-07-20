@@ -1,4 +1,4 @@
-# Docker Lab
+# Containers Lab
 
 [WORK IN PROGRESS]
 
