@@ -1,5 +1,9 @@
 # Kubernetes (K8s)
 
+## Requirements
+
+* Have the same version for kubectl and orquestator cluster (>=1.17)
+
 Kubernetes is an open-source containers orchestrator developed originally by Google that was released in 2014. It allows to manage containerized workloads and services with a declarative configuration.
 
 It offers multiple functionalities that helps in the management of the applications:
