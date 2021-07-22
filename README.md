@@ -1,4 +1,4 @@
-# Docker Lab
+# Containers Lab
 
 [WORK IN PROGRESS]
 
@@ -21,3 +21,9 @@ In each technolody directory there will be a different sections for the feature 
   * Installation
   * Run
   * Build
+* Kubernetes
+  * Local Installation
+  * Namespaces
+  * Pods
+  * Deployments
+  * Services
