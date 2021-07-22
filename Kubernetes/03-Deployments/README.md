@@ -7,7 +7,7 @@ Kubernetes provides the [Deployment](https://kubernetes.io/docs/concepts/workloa
 Like in the Pods example, we can run the Deployment by execute the _kubectl_ command. 
 
 ```
-$ kubectl run nginx --image=nginx --namespace=container-lab-ns
+$ kubectl create deployment nginx --image=nginx --namespace=container-lab-ns
 
 deployment.apps/nginx created
 ```

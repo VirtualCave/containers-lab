@@ -7,7 +7,7 @@ In Kubernetes, the [_pods_](https://kubernetes.io/docs/concepts/workloads/pods/)
 In this first example we will deploy an _nginx_ _pod_ by using the kubectl command.
 
 ```
-$ kubectl run --generator=run-pod/v1 nginx --image=nginx --namespace=container-lab-ns
+$ kubectl run nginx --image=nginx --namespace=container-lab-ns
 
 pod/nginx created
 
