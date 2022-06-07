@@ -9,7 +9,7 @@ As the concept of a container is an object where runs some isolated application,
 So with the following command we will run a container with the _Nginx_ image and map the 80 container port with the 8080 host port.
 
 ```
-$docker run nginx -p 8080:80
+$docker run -p 8080:80 nginx
 
 /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
